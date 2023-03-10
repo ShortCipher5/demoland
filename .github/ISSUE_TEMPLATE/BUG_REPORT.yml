@@ -1,6 +1,6 @@
 name: Bug Report
 description: File a bug report
-title: "bug: "
+title: "bug: TITLE"
 labels: ["bug", "product-review"]
 body:
   - type: markdown
@@ -13,7 +13,6 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
     validations:
       required: true
   - type: dropdown
