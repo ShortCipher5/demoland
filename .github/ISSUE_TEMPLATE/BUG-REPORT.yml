@@ -56,11 +56,3 @@ body:
           See the AFFiNE [Contributing Guide](https://github.com/toeverything/affine/blob/master/CONTRIBUTING.md) to get started.
       options:
         - label: Yes I'd like to help by submitting a PR!
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/toeverything/AFFiNE/blob/master/docs/CODE_OF_CONDUCT.md)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
