@@ -34,9 +34,3 @@ body:
         See the AFFiNE [Contributing Guide](https://github.com/toeverything/affine/blob/master/CONTRIBUTING.md) to get started.
       options:
         - label: Yes I'd like to help by submitting a PR!
-  - type: markdown
-    attributes:
-      value: "## Thank you"
-  - type: markdown
-    attributes:
-      value: Thank you for taking the time to fill in this form.
