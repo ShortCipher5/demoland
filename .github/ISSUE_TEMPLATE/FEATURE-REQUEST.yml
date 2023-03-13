@@ -37,4 +37,4 @@ body:
   - type: markdown
     attributes:
       value: "## Thank you" |
-        Thank you for taking the time to fill in this form.
+        "Thank you for taking the time to fill in this form."
